@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/amit-soham-16/QuizGame-.git](https://github.com/amit-soham-16/QuizGame-.git)
+    git clone https://github.com/amit-soham-16/QuizGame-.git
     cd QuizGame-
     ```
 
